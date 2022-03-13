@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mariembless
+- 👋 Hi, I’m Marina
 - 👀 I’m interested in 2D graphic and motion design
 - 🌱 I’m currently learning motion design
 <!---
